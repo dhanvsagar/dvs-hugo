@@ -12,12 +12,12 @@ profilePicture = "images/profile.jpg"
 [[params.socialIcons]]
 icon = "fab fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/dhan-v-sagar/"
 
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:dhanvsagar@gmail.com"
 
 
 [menu]
