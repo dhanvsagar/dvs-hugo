@@ -60,13 +60,13 @@ disable404 = false
         class = "linkedin"
         icon = "fa-linkedin"
         url = "//linkedin.com/in/dhan-v-sagar"
-        title = "linkedin.com/in/dhan-v-sagar"
+        title = "linkedin.com"
 
         [[params.contact.list]]
         class = "github"
         icon = "fa-github"
         url = "//github.com/dhanvsagar"
-        title = "github.com/dhanvsagar"
+        title = "github.com"
 
         [[params.contact.list]]
         class = "twitter"
@@ -80,14 +80,14 @@ disable404 = false
         title = "Education"
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        college = "University of London"
-        dates = "2006 - 2010"
+        degree = "MTech in Computer Science"
+        college = "Amrita University"
+        dates = "2013 - 2015"
 
         [[params.education.list]]
-        degree = "BSc in Applied Mathematics"
-        college = "Bristol University"
-        dates = "2007 - 2011"
+        degree = "BTech in Information Technology"
+        college = "Cochin University"
+        dates = "2008 - 2012"
 
     # Languages section
     [params.language]
@@ -95,16 +95,16 @@ disable404 = false
         title = "Languages"
 
         [[params.language.list]]
-        language = "English"
+        language = "Malayalam"
         level = "Native"
 
         [[params.language.list]]
-        language = "French"
+        language = "English"
         level = "Professional"
 
         [[params.language.list]]
-        language = "Russian"
-        level = "Professional"
+        language = "Hindi"
+        level = "Basic"
 
     # Interests section
     [params.interests]
@@ -112,10 +112,10 @@ disable404 = false
         title = "Interests"
 
         [[params.interests.list]]
-        interest = "Climbing"
+        interest = "Photography"
 
         [[params.interests.list]]
-        interest = "Snowboarding"
+        interest = "Reading"
 
         [[params.interests.list]]
         interest = "Cooking"
